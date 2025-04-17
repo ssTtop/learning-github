@@ -1,8 +1,6 @@
 # learning-github
 
 
-### Solution
-
     #include <bits/stdc++.h>
 
     using namespace std;
